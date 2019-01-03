@@ -1,0 +1,25 @@
+{
+    "name": "project",
+    "version": "1.0.0",
+    "description": "",
+    "author": "Zakaria Davis",
+    "license": "MIT",
+    "devDependencies": {
+        "gulp": "*",
+        "gulp-autoprefixer": "*"
+    },
+    "dependencies": {
+        "4": "*",
+        "browser-sync": "*",
+        "gulp-imagemin": "*",
+        "gulp-clean-css": "*",
+        "gulp-sass": "*",
+        "gulp-sourcemaps": "*",
+        "gulp-uglify": "*",
+        "gulp-watch": "*",
+        "gulp-notify": "*",
+        "imagemin-pngquant": "*",
+        "jquery": "*",
+        "rimraf": "*"
+    }
+}
